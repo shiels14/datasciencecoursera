@@ -1,0 +1,4 @@
+One = int(input("Type a number between 1 and 10: "))
+Type a number between 1 and 10: 3
+>>> Two = int(input("Type a number between 1 and 10: "))
+Type a number between 1 and 10: 5
