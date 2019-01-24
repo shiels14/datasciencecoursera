@@ -1,665 +1,910 @@
 Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 03:13:28) 
 [Clang 6.0 (clang-600.0.57)] on darwin
 Type "help", "copyright", "credits" or "license()" for more information.
->>> 7.0 / 2.0
-3.5
->>> 7.0 / 2
-3.5
->>> 7 / 2.0
-3.5
->>> 5 / 9.0
-0.5555555555555556
->>> 190.9 / 4
-47.725
->>> # this is an integer /
->>> 123.56 / 0
-Traceback (most recent call last):
-  File "<pyshell#6>", line 1, in <module>
-    123.56 / 0
-ZeroDivisionError: float division by zero
->>> 2345.66 / 8.0
-293.2075
->>> 3456 / 67.190
-51.436225628813816
->>> x = "hello"
->>> y = 'world'
->>> print(x,y)
-hello world
->>> x = (""" I am the best in the world because this is a string")
-written in
-three lines."""
-	 printx
-	 
-SyntaxError: invalid syntax
->>> print(x)
-	 
-hello
->>> print(y)
-	 
-world
->>> print(z)
-	 
-Traceback (most recent call last):
-  File "<pyshell#21>", line 1, in <module>
-    print(z)
-NameError: name 'z' is not defined
->>> def square(x):
-	 return x * x
-	 square(5)
-	 square(5)
+>>> 
+=============== RESTART: /Users/stephenshiels/Desktop/hello.py ===============
+Hello world
+The number is 9
+The number is 92
+The number is 922
+The number is 9223
+The number is 92233
+The number is 922337
+The number is 9223372
+The number is 92233720
+The number is 922337203
+The number is 9223372036
+The number is 92233720368
+The number is 922337203685
+The number is 9223372036854
+The number is 92233720368547
+The number is 922337203685477
+The number is 9223372036854775
+The number is 92233720368547758
+The number is 922337203685477580
+The number is 9223372036854775807
+>>> 
+=============== RESTART: /Users/stephenshiels/Desktop/hello.py ===============
+Hello world
+The number is 9
+The number is 92
+The number is 922
+The number is 9223
+The number is 92233
+The number is 922337
+The number is 9223372
+The number is 92233720
+The number is 922337203
+The number is 9223372036
+The number is 92233720368
+The number is 922337203685
+The number is 9223372036854
+The number is 92233720368547
+The number is 922337203685477
+The number is 9223372036854775
+The number is 92233720368547758
+The number is 922337203685477580
+The number is 9223372036854775807
+This parrot is a stiff
+This parrot is bereft of lift
+This parrot is not pinin'
+This parrot is no more
+>>> 
+=============== RESTART: /Users/stephenshiels/Desktop/hello.py ===============
+Hello world
+The number is 9
+The number is 92
+The number is 922
+The number is 9223
+The number is 92233
+The number is 922337
+The number is 9223372
+The number is 92233720
+The number is 922337203
+The number is 9223372036
+The number is 92233720368
+The number is 922337203685
+The number is 9223372036854
+The number is 92233720368547
+The number is 922337203685477
+The number is 9223372036854775
+The number is 92233720368547758
+The number is 922337203685477580
+The number is 9223372036854775807
+This parrot is a stiff
+This parrot is no more
+This parrot is not pinin'
+This parrot is bereft of lift
+i is 0 
+i is 5 
+i is 10 
+i is 15 
+i is 20 
+i is 25 
+i is 30 
+i is 35 
+i is 40 
+i is 45 
+i is 50 
+i is 55 
+i is 60 
+i is 65 
+i is 70 
+i is 75 
+i is 80 
+i is 85 
+i is 90 
+i is 95 
+1 times 1 is 1
+=========
+2 times 1 is 2
+=========
+3 times 1 is 3
+=========
+4 times 1 is 4
+=========
+5 times 1 is 5
+=========
+6 times 1 is 6
+=========
+7 times 1 is 7
+=========
+8 times 1 is 8
+=========
+9 times 1 is 9
+=========
+10 times 1 is 10
+=========
+11 times 1 is 11
+=========
+12 times 1 is 12
+=========
+1 times 2 is 2
+=========
+2 times 2 is 4
+=========
+3 times 2 is 6
+=========
+4 times 2 is 8
+=========
+5 times 2 is 10
+=========
+6 times 2 is 12
+=========
+7 times 2 is 14
+=========
+8 times 2 is 16
+=========
+9 times 2 is 18
+=========
+10 times 2 is 20
+=========
+11 times 2 is 22
+=========
+12 times 2 is 24
+=========
+1 times 3 is 3
+=========
+2 times 3 is 6
+=========
+3 times 3 is 9
+=========
+4 times 3 is 12
+=========
+5 times 3 is 15
+=========
+6 times 3 is 18
+=========
+7 times 3 is 21
+=========
+8 times 3 is 24
+=========
+9 times 3 is 27
+=========
+10 times 3 is 30
+=========
+11 times 3 is 33
+=========
+12 times 3 is 36
+=========
+1 times 4 is 4
+=========
+2 times 4 is 8
+=========
+3 times 4 is 12
+=========
+4 times 4 is 16
+=========
+5 times 4 is 20
+=========
+6 times 4 is 24
+=========
+7 times 4 is 28
+=========
+8 times 4 is 32
+=========
+9 times 4 is 36
+=========
+10 times 4 is 40
+=========
+11 times 4 is 44
+=========
+12 times 4 is 48
+=========
+1 times 5 is 5
+=========
+2 times 5 is 10
+=========
+3 times 5 is 15
+=========
+4 times 5 is 20
+=========
+5 times 5 is 25
+=========
+6 times 5 is 30
+=========
+7 times 5 is 35
+=========
+8 times 5 is 40
+=========
+9 times 5 is 45
+=========
+10 times 5 is 50
+=========
+11 times 5 is 55
+=========
+12 times 5 is 60
+=========
+1 times 6 is 6
+=========
+2 times 6 is 12
+=========
+3 times 6 is 18
+=========
+4 times 6 is 24
+=========
+5 times 6 is 30
+=========
+6 times 6 is 36
+=========
+7 times 6 is 42
+=========
+8 times 6 is 48
+=========
+9 times 6 is 54
+=========
+10 times 6 is 60
+=========
+11 times 6 is 66
+=========
+12 times 6 is 72
+=========
+1 times 7 is 7
+=========
+2 times 7 is 14
+=========
+3 times 7 is 21
+=========
+4 times 7 is 28
+=========
+5 times 7 is 35
+=========
+6 times 7 is 42
+=========
+7 times 7 is 49
+=========
+8 times 7 is 56
+=========
+9 times 7 is 63
+=========
+10 times 7 is 70
+=========
+11 times 7 is 77
+=========
+12 times 7 is 84
+=========
+1 times 8 is 8
+=========
+2 times 8 is 16
+=========
+3 times 8 is 24
+=========
+4 times 8 is 32
+=========
+5 times 8 is 40
+=========
+6 times 8 is 48
+=========
+7 times 8 is 56
+=========
+8 times 8 is 64
+=========
+9 times 8 is 72
+=========
+10 times 8 is 80
+=========
+11 times 8 is 88
+=========
+12 times 8 is 96
+=========
+1 times 9 is 9
+=========
+2 times 9 is 18
+=========
+3 times 9 is 27
+=========
+4 times 9 is 36
+=========
+5 times 9 is 45
+=========
+6 times 9 is 54
+=========
+7 times 9 is 63
+=========
+8 times 9 is 72
+=========
+9 times 9 is 81
+=========
+10 times 9 is 90
+=========
+11 times 9 is 99
+=========
+12 times 9 is 108
+=========
+1 times 10 is 10
+=========
+2 times 10 is 20
+=========
+3 times 10 is 30
+=========
+4 times 10 is 40
+=========
+5 times 10 is 50
+=========
+6 times 10 is 60
+=========
+7 times 10 is 70
+=========
+8 times 10 is 80
+=========
+9 times 10 is 90
+=========
+10 times 10 is 100
+=========
+11 times 10 is 110
+=========
+12 times 10 is 120
+=========
+1 times 11 is 11
+=========
+2 times 11 is 22
+=========
+3 times 11 is 33
+=========
+4 times 11 is 44
+=========
+5 times 11 is 55
+=========
+6 times 11 is 66
+=========
+7 times 11 is 77
+=========
+8 times 11 is 88
+=========
+9 times 11 is 99
+=========
+10 times 11 is 110
+=========
+11 times 11 is 121
+=========
+12 times 11 is 132
+=========
+1 times 12 is 12
+=========
+2 times 12 is 24
+=========
+3 times 12 is 36
+=========
+4 times 12 is 48
+=========
+5 times 12 is 60
+=========
+6 times 12 is 72
+=========
+7 times 12 is 84
+=========
+8 times 12 is 96
+=========
+9 times 12 is 108
+=========
+10 times 12 is 120
+=========
+11 times 12 is 132
+=========
+12 times 12 is 144
+=========
+>>> 
+=============== RESTART: /Users/stephenshiels/Desktop/hello.py ===============
+Hello world
+The number is 9
+The number is 92
+The number is 922
+The number is 9223
+The number is 92233
+The number is 922337
+The number is 9223372
+The number is 92233720
+The number is 922337203
+The number is 9223372036
+The number is 92233720368
+The number is 922337203685
+The number is 9223372036854
+The number is 92233720368547
+The number is 922337203685477
+The number is 9223372036854775
+The number is 92233720368547758
+The number is 922337203685477580
+The number is 9223372036854775807
+This parrot is not pinin'
+This parrot is no more
+This parrot is bereft of lift
+This parrot is a stiff
+i is 0 
+i is 5 
+i is 10 
+i is 15 
+i is 20 
+i is 25 
+i is 30 
+i is 35 
+i is 40 
+i is 45 
+i is 50 
+i is 55 
+i is 60 
+i is 65 
+i is 70 
+i is 75 
+i is 80 
+i is 85 
+i is 90 
+i is 95 
+1 times 1 is 1
+2 times 1 is 2
+3 times 1 is 3
+4 times 1 is 4
+5 times 1 is 5
+6 times 1 is 6
+7 times 1 is 7
+8 times 1 is 8
+9 times 1 is 9
+10 times 1 is 10
+11 times 1 is 11
+12 times 1 is 12
+1 times 2 is 2
+2 times 2 is 4
+3 times 2 is 6
+4 times 2 is 8
+5 times 2 is 10
+6 times 2 is 12
+7 times 2 is 14
+8 times 2 is 16
+9 times 2 is 18
+10 times 2 is 20
+11 times 2 is 22
+12 times 2 is 24
+1 times 3 is 3
+2 times 3 is 6
+3 times 3 is 9
+4 times 3 is 12
+5 times 3 is 15
+6 times 3 is 18
+7 times 3 is 21
+8 times 3 is 24
+9 times 3 is 27
+10 times 3 is 30
+11 times 3 is 33
+12 times 3 is 36
+1 times 4 is 4
+2 times 4 is 8
+3 times 4 is 12
+4 times 4 is 16
+5 times 4 is 20
+6 times 4 is 24
+7 times 4 is 28
+8 times 4 is 32
+9 times 4 is 36
+10 times 4 is 40
+11 times 4 is 44
+12 times 4 is 48
+1 times 5 is 5
+2 times 5 is 10
+3 times 5 is 15
+4 times 5 is 20
+5 times 5 is 25
+6 times 5 is 30
+7 times 5 is 35
+8 times 5 is 40
+9 times 5 is 45
+10 times 5 is 50
+11 times 5 is 55
+12 times 5 is 60
+1 times 6 is 6
+2 times 6 is 12
+3 times 6 is 18
+4 times 6 is 24
+5 times 6 is 30
+6 times 6 is 36
+7 times 6 is 42
+8 times 6 is 48
+9 times 6 is 54
+10 times 6 is 60
+11 times 6 is 66
+12 times 6 is 72
+1 times 7 is 7
+2 times 7 is 14
+3 times 7 is 21
+4 times 7 is 28
+5 times 7 is 35
+6 times 7 is 42
+7 times 7 is 49
+8 times 7 is 56
+9 times 7 is 63
+10 times 7 is 70
+11 times 7 is 77
+12 times 7 is 84
+1 times 8 is 8
+2 times 8 is 16
+3 times 8 is 24
+4 times 8 is 32
+5 times 8 is 40
+6 times 8 is 48
+7 times 8 is 56
+8 times 8 is 64
+9 times 8 is 72
+10 times 8 is 80
+11 times 8 is 88
+12 times 8 is 96
+1 times 9 is 9
+2 times 9 is 18
+3 times 9 is 27
+4 times 9 is 36
+5 times 9 is 45
+6 times 9 is 54
+7 times 9 is 63
+8 times 9 is 72
+9 times 9 is 81
+10 times 9 is 90
+11 times 9 is 99
+12 times 9 is 108
+1 times 10 is 10
+2 times 10 is 20
+3 times 10 is 30
+4 times 10 is 40
+5 times 10 is 50
+6 times 10 is 60
+7 times 10 is 70
+8 times 10 is 80
+9 times 10 is 90
+10 times 10 is 100
+11 times 10 is 110
+12 times 10 is 120
+1 times 11 is 11
+2 times 11 is 22
+3 times 11 is 33
+4 times 11 is 44
+5 times 11 is 55
+6 times 11 is 66
+7 times 11 is 77
+8 times 11 is 88
+9 times 11 is 99
+10 times 11 is 110
+11 times 11 is 121
+12 times 11 is 132
+1 times 12 is 12
+2 times 12 is 24
+3 times 12 is 36
+4 times 12 is 48
+5 times 12 is 60
+6 times 12 is 72
+7 times 12 is 84
+8 times 12 is 96
+9 times 12 is 108
+10 times 12 is 120
+11 times 12 is 132
+12 times 12 is 144
+>>> 
+=============== RESTART: /Users/stephenshiels/Desktop/hello.py ===============
+Hello world
+The number is 9
+The number is 92
+The number is 922
+The number is 9223
+The number is 92233
+The number is 922337
+The number is 9223372
+The number is 92233720
+The number is 922337203
+The number is 9223372036
+The number is 92233720368
+The number is 922337203685
+The number is 9223372036854
+The number is 92233720368547
+The number is 922337203685477
+The number is 9223372036854775
+The number is 92233720368547758
+The number is 922337203685477580
+The number is 9223372036854775807
+This parrot is not pinin'
+This parrot is a stiff
+This parrot is no more
+This parrot is bereft of lift
+i is 0 
+i is 5 
+i is 10 
+i is 15 
+i is 20 
+i is 25 
+i is 30 
+i is 35 
+i is 40 
+i is 45 
+i is 50 
+i is 55 
+i is 60 
+i is 65 
+i is 70 
+i is 75 
+i is 80 
+i is 85 
+i is 90 
+i is 95 
+1 times 1 is 1
 
-	 
->>> print(square5)
-	 
-Traceback (most recent call last):
-  File "<pyshell#27>", line 1, in <module>
-    print(square5)
-NameError: name 'square5' is not defined
->>> print("square 5")
-	 
-square 5
->>> square(2) + square(3)
-	 
-13
->>> square(square(3))
-	 
-81
->>> def sum_of_square(x, y):
-	 return square(x) + square(y)
+2 times 1 is 2
 
-	 
->>> sum_of_square(2, 3)
-	 
-13
->>> f = square
-	 
->>> f(4)
-	 
-16
->>> def fxy(f, x, y):
-	 return f (x) + f(y)
+3 times 1 is 3
 
-	 
->>> fxy(square, 2, 3)
-	 
-13
->>> x = 0
-	 
->>> y = 0
-	 
->>> x = 9
-	 
->>> t = 1
-	 
->>> ss = shit
-	 
-Traceback (most recent call last):
-  File "<pyshell#45>", line 1, in <module>
-    ss = shit
-NameError: name 'shit' is not defined
->>> ss = 8
-	 
->>> stephen = 5
-	 
->>> pie = 3
-	 
->>> cool = 69
-	 
->>> x = 0
-	 
->>> y = 0
-	 
->>> def incr(x):
-	 y = x + 1
-	 return y
-	 incr(5)
-	 print(x, y)
+4 times 1 is 4
 
-	 
->>> pi = 3.14
-	 
->>> def area(r):
-	 return pi * r * r
+5 times 1 is 5
 
-	 
->>> numcalls = 0
-	 
->>> def square(x):
-	 global numcalls
-	 numcalls = numcalls + 1
-	 return x * x
+6 times 1 is 6
 
-	 
->>> print square(5)
-	 
-SyntaxError: invalid syntax
->>> print("square 5")
-	 
-square 5
->>> print("square 7")
-	 
-square 7
->>> x = 1
-	 
->>> def f():
-	 return x
-	 print(x)
-	 print f()
-	 
-SyntaxError: invalid syntax
->>> print("f"()
-	  print ("Hello World")
-	  
-SyntaxError: invalid syntax
->>> x = 1
-	  
->>> def f():
-	  return x
-	  print(x)
-	  print(f))
-	 
-SyntaxError: invalid syntax
->>> x = 1
-	 
->>> def f()
-	 
-SyntaxError: invalid syntax
->>> y = x
-	 
->>> x = 2
-	 
->>> return x + y
-	 
-SyntaxError: 'return' outside function
->>> print x
-	 
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(x)?
->>> print f()
-	 
-SyntaxError: invalid syntax
->>> print x
-	 
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(x)?
->>> x = 2
-	 
->>> def f(a):
-	 x = a * a
-	 return x
-	 y = f(3)
-	 print x, y
-	 
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(x, y)?
->>> def difference(x, y):
-	 return x - y
+7 times 1 is 7
 
-	 
->>> difference(5, 2)
-	 
-3
->>> difference(x=5, y=2)
-	 
-3
->>> difference(53, y=2)
-	 
-51
->>> difference(5, y=2)
-	 
-3
->>> difference(y=2, x=5)
-	 
-3
->>> def increment(x, amount=1):
-	 return x + amount
+8 times 1 is 8
 
-	 
->>> increment(10)
-	 
-11
->>> increment(10, 5)
-	 
-15
->>> increment(10, amount=2)
-	 
-12
->>> cube = lambda x: x ** 3
-	 
->>> fxy(cube, 2 3)
-	 
-SyntaxError: invalid syntax
->>> fxy(cube, 2, 3)
-	 
-35
->>> fxy(lambda x: x ** 3, 2, 3)
-	 
-35
->>> min(2, 3)
-	 
-2
->>> max(3, 4)
-	 
-4
->>> len("helloworld")
-	 
-10
->>> int("50")
-	 
-50
->>> str(123)
-	 
-'123'
->>> count_digits(5)
-	 
-Traceback (most recent call last):
-  File "<pyshell#127>", line 1, in <module>
-    count_digits(5)
-NameError: name 'count_digits' is not defined
->>> count_digits(12345)
-	 
-Traceback (most recent call last):
-  File "<pyshell#128>", line 1, in <module>
-    count_digits(12345)
-NameError: name 'count_digits' is not defined
->>> x = "hello"
-	 
->>> print x.upper()
-	 
-SyntaxError: invalid syntax
->>> print("x.upper")
-	 
-x.upper
->>> istrcmp('python', 'python')
-	 
-Traceback (most recent call last):
-  File "<pyshell#132>", line 1, in <module>
-    istrcmp('python', 'python')
-NameError: name 'istrcmp' is not defined
->>> istrcmp("Python", "Python")
-	 
-Traceback (most recent call last):
-  File "<pyshell#133>", line 1, in <module>
-    istrcmp("Python", "Python")
-NameError: name 'istrcmp' is not defined
->>> istrcmp("LaTex", 'Latex")
-	    
-SyntaxError: EOL while scanning string literal
->>> istrcmp('a', 'b')
-	    
-Traceback (most recent call last):
-  File "<pyshell#135>", line 1, in <module>
-    istrcmp('a', 'b')
-NameError: name 'istrcmp' is not defined
->>> 2 < 3
-	    
-True
->>> 13 > 5
-	    
-True
->>> 4 < 4
-	    
-False
->>> 1567 < 9
-	    
-False
->>> 123 <= 4
-	    
-False
->>> x = 543
-	    
->>> 2 > x . 13
-	    
-SyntaxError: invalid syntax
->>> 3 < x < 12
-	    
-False
->>> 3 < 1
-	    
-False
->>> 45 < 3
-	    
-False
->>> # < less than
-	    
->>> # > greater than
-	    
->>> x = 5
-	    
->>> 2 < x < 10
-	    
-True
->>> 2 < 3 < 4 < 5 < 6
-	    
-True
->>> "python" > "perl"
-	    
-True
->>> "python" > "java"
-	    
-True
->>> True and True
-	    
-True
->>> True and False
-	    
-False
->>> 2 < 3 and 5 < 4
-	    
-False
->>> 2 < 3 or 5 < 4
-	    
-True
->>> print 2 < 3 and 3 > 4
-	    
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(2 < 3 and 3 > 4)?
->>> print("2 < 3 and 3 > 4")
-	    
-2 < 3 and 3 > 4
->>> print ("2 < 3 or 3 > 1")
-	    
-2 < 3 or 3 > 1
->>> print("2 < 3 or not 3 > 1")
-	    
-2 < 3 or not 3 > 1
->>> print ("2 < 3 and not 3 > 1")
-	    
-2 < 3 and not 3 > 1
->>> x = 4
-	    
->>> y = 5
-	    
->>> p = x < y or x < z
-	    
->>> print(p)
-	    
-True
->>> True, False = False, True
-	    
-SyntaxError: can't assign to keyword
->>> print True, False
-	    
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(True, False)?
->>> print 2 < 3
-	    
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(2 < 3)?
->>> x = 42
-	    
->>> if x % 2 == 0: print("even")
+9 times 1 is 9
 
-	    
-even
->>> if x % 2 == 0:
-	    print("even")
+10 times 1 is 10
 
-	    
-even
->>> x = 3
-	    
->>> if x % 2 == 0:
-	    print("even")
-	    else:
-	    
-SyntaxError: invalid syntax
->>> print("odd")
-	    
-odd
->>> x = 42
-	    
->>> if x < 10:
-	    print("one digit number")
-	    elif x < 100:
-	    
-SyntaxError: invalid syntax
->>> print("two digit number")
-	    
-two digit number
->>> else:
-	    
-SyntaxError: invalid syntax
->>> print("big number")
-	    
-big number
->>> x = 2
-	    
->>> if x == 2:
-	    print(x)
+11 times 1 is 11
 
-	    
-2
->>> else:
-	    
-SyntaxError: invalid syntax
->>> x +
-	    
-SyntaxError: invalid syntax
->>> x = ["hello", "world"]
-	    
->>> x = [1, 2, "hello", "world", ["another", "list"]]
-	    
->>> x = [1, 2, 3]
-	    
->>> len(x)
-	    
-3
->>> x = [1, 2, 3]
-	    
->>> x[1]
-	    
-2
->>> x[1] = 4
-	    
->>> x[1]
-	    
-4
->>> import time
-	    
->>> time.asctime()
-	    
-'Mon Jan 14 16:29:56 2019'
->>> import sys
-	    
->>> time.asctime()
-	    
-'Mon Jan 14 16:31:17 2019'
->>> import sys
-	    
->>> print sys.argv[1]
-	    
-SyntaxError: Missing parentheses in call to 'print'. Did you mean print(sys.argv[1])?
->>> print("sys.argv[1]")
-	    
-sys.argv[1]
->>> $ python echo.py hello
-	    
-SyntaxError: invalid syntax
->>> hello
-	    
-Traceback (most recent call last):
-  File "<pyshell#209>", line 1, in <module>
-    hello
-NameError: name 'hello' is not defined
->>> [1, 2, 3, 4]
-	    
-[1, 2, 3, 4]
->>> ["hello", "world"]
-	    
-['hello', 'world']
->>> [0, 1.5, "hello"]
-	    
-[0, 1.5, 'hello']
->>> [0, 1.5, "hello"]
-	    
-[0, 1.5, 'hello']
->>> a = [1, 2]
-	    
->>> b = [1.5, 2, a]
-	    
->>> b
-	    
-[1.5, 2, [1, 2]]
->>> range(4)
-	    
-range(0, 4)
->>> [0, 1, 2, 3]
-	    
-[0, 1, 2, 3]
->>> range(3, 6)
-	    
-range(3, 6)
->>> [3, 4, 5]
-	    
-[3, 4, 5]
->>> range(2, 10, 3)
-	    
-range(2, 10, 3)
->>> [2, 5, 8]
-	    
-[2, 5, 8]
->>> a = [1, 2, 3, 4]
-	    
->>> len(a)
-	    
-4
->>> a = [1, 2, 3]
-	    
->>> b = [4, 5]
-	    
->>> a + b
-	    
-[1, 2, 3, 4, 5]
->>> b * 3
-	    
-[4, 5, 4, 5, 4, 5]
->>> x = [1, 2]
-	    
->>> x[0]
-	    
-1
->>> x[1]
-	    
-2
->>> x [2]
-	    
-Traceback (most recent call last):
-  File "<pyshell#232>", line 1, in <module>
-    x [2]
-IndexError: list index out of range
->>> x = [1, 2, 3, 4]
-	    
->>> x [6]
-	    
-Traceback (most recent call last):
-  File "<pyshell#234>", line 1, in <module>
-    x [6]
-IndexError: list index out of range
->>> x = [1, 2, 3, 4]
-	    
->>> x[-2]
-	    
-3
->>> x = [1, 2, 3, 4]
-	    
->>> x[0:2]
-	    
-[1, 2]
->>> x[1:4]
-	    
-[2, 3, 4]
->>> x[0:-1]
-	    
-[1, 2, 3]
->>> a[2:]
-	    
-[3]
->>> a[:]
-	    
-[1, 2, 3]
->>> x = range(10)
-	    
->>> x
-	    
-range(0, 10)
->>> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-	    
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
->>> x[0:6:2]
-	    
-range(0, 6, 2)
->>> x[::-1]
-	    
-range(9, -1, -1)
->>> [9,8,7,6,5,4,3,2,1,0]
-	    
-[9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
->>> x = [1, 2, 3, 4]
-	    
->>> x[1] = 5
-	    
->>> x
-	    
-[1, 5, 3, 4]
->>> [1, 2, 3, 4]
-	    
-[1, 2, 3, 4]
->>> x = [1, 2, 3, 4]
-	    
->>> 2 in x
-	    
-True
->>> 10 in x
-	    
-False
->>> a = [1, 2]
-	    
->>> a.appenend(3)
-	    
-Traceback (most recent call last):
-  File "<pyshell#257>", line 1, in <module>
-    a.appenend(3)
-AttributeError: 'list' object has no attribute 'appenend'
->>> a.append(3)
-	    
->>> a
-	    
-[1, 2, 3]
->>> x = [0, 1, [2]]
-	    
->>> x[2][0] = 3
-	    
->>> print("x")
-	    
-x
->>> x[2].append(4)
-	    
->>> print("x")
-	    
-x
->>> x[2] = 2
-	    
->>> print("x")
-	    
-x
->>> for x in [1, 2, 3, 4]:
-	    print("x")
+12 times 1 is 12
 
-	    
-x
-x
-x
-x
->>> for i in range(10):
-	    print("i, i*i, i*i*i")
+1 times 2 is 2
 
-	    
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
-i, i*i, i*i*i
->>> zip(["a", "b", "c"], [1, 2, 3])
-	    
-<zip object at 0x1052bf388>
+2 times 2 is 4
+
+3 times 2 is 6
+
+4 times 2 is 8
+
+5 times 2 is 10
+
+6 times 2 is 12
+
+7 times 2 is 14
+
+8 times 2 is 16
+
+9 times 2 is 18
+
+10 times 2 is 20
+
+11 times 2 is 22
+
+12 times 2 is 24
+
+1 times 3 is 3
+
+2 times 3 is 6
+
+3 times 3 is 9
+
+4 times 3 is 12
+
+5 times 3 is 15
+
+6 times 3 is 18
+
+7 times 3 is 21
+
+8 times 3 is 24
+
+9 times 3 is 27
+
+10 times 3 is 30
+
+11 times 3 is 33
+
+12 times 3 is 36
+
+1 times 4 is 4
+
+2 times 4 is 8
+
+3 times 4 is 12
+
+4 times 4 is 16
+
+5 times 4 is 20
+
+6 times 4 is 24
+
+7 times 4 is 28
+
+8 times 4 is 32
+
+9 times 4 is 36
+
+10 times 4 is 40
+
+11 times 4 is 44
+
+12 times 4 is 48
+
+1 times 5 is 5
+
+2 times 5 is 10
+
+3 times 5 is 15
+
+4 times 5 is 20
+
+5 times 5 is 25
+
+6 times 5 is 30
+
+7 times 5 is 35
+
+8 times 5 is 40
+
+9 times 5 is 45
+
+10 times 5 is 50
+
+11 times 5 is 55
+
+12 times 5 is 60
+
+1 times 6 is 6
+
+2 times 6 is 12
+
+3 times 6 is 18
+
+4 times 6 is 24
+
+5 times 6 is 30
+
+6 times 6 is 36
+
+7 times 6 is 42
+
+8 times 6 is 48
+
+9 times 6 is 54
+
+10 times 6 is 60
+
+11 times 6 is 66
+
+12 times 6 is 72
+
+1 times 7 is 7
+
+2 times 7 is 14
+
+3 times 7 is 21
+
+4 times 7 is 28
+
+5 times 7 is 35
+
+6 times 7 is 42
+
+7 times 7 is 49
+
+8 times 7 is 56
+
+9 times 7 is 63
+
+10 times 7 is 70
+
+11 times 7 is 77
+
+12 times 7 is 84
+
+1 times 8 is 8
+
+2 times 8 is 16
+
+3 times 8 is 24
+
+4 times 8 is 32
+
+5 times 8 is 40
+
+6 times 8 is 48
+
+7 times 8 is 56
+
+8 times 8 is 64
+
+9 times 8 is 72
+
+10 times 8 is 80
+
+11 times 8 is 88
+
+12 times 8 is 96
+
+1 times 9 is 9
+
+2 times 9 is 18
+
+3 times 9 is 27
+
+4 times 9 is 36
+
+5 times 9 is 45
+
+6 times 9 is 54
+
+7 times 9 is 63
+
+8 times 9 is 72
+
+9 times 9 is 81
+
+10 times 9 is 90
+
+11 times 9 is 99
+
+12 times 9 is 108
+
+1 times 10 is 10
+
+2 times 10 is 20
+
+3 times 10 is 30
+
+4 times 10 is 40
+
+5 times 10 is 50
+
+6 times 10 is 60
+
+7 times 10 is 70
+
+8 times 10 is 80
+
+9 times 10 is 90
+
+10 times 10 is 100
+
+11 times 10 is 110
+
+12 times 10 is 120
+
+1 times 11 is 11
+
+2 times 11 is 22
+
+3 times 11 is 33
+
+4 times 11 is 44
+
+5 times 11 is 55
+
+6 times 11 is 66
+
+7 times 11 is 77
+
+8 times 11 is 88
+
+9 times 11 is 99
+
+10 times 11 is 110
+
+11 times 11 is 121
+
+12 times 11 is 132
+
+1 times 12 is 12
+
+2 times 12 is 24
+
+3 times 12 is 36
+
+4 times 12 is 48
+
+5 times 12 is 60
+
+6 times 12 is 72
+
+7 times 12 is 84
+
+8 times 12 is 96
+
+9 times 12 is 108
+
+10 times 12 is 120
+
+11 times 12 is 132
+
+12 times 12 is 144
+
 >>> 
